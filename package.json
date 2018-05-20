@@ -1,0 +1,15 @@
+{
+  "name": "eslint-no-same-line-if",
+  "version": "1.0.0",
+  "description": "Disallow misleading if statements",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node test/main.js"
+  },
+  "author": "Gabriel Fürstenheim <furstenheim@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "standard": "^11.0.1"
+  }
+}
