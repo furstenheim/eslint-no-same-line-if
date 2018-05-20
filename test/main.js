@@ -1,5 +1,5 @@
 const {RuleTester} = require('eslint')
-const rule = require('../index')
+const rule = require('../no-same-line-if')
 const ruleTester = new RuleTester()
 
 ruleTester.run('no-same-line-if', rule, {
