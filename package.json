@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-same-line-if",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Disallow misleading if statements",
   "main": "index.js",
   "scripts": {
